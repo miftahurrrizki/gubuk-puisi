@@ -1,4 +1,4 @@
-Project Title: Gubuk Puisi
+# Project Title: Gubuk Puisi
 
 # Description:
 The Gubuk Puisi is a simple website dedicated to showcasing a curated collection of poems. This web application provides a serene space for poetry enthusiasts to explore and immerse themselves in the beauty of words. With a clean and user-friendly interface, users can easily navigate through various poetic works, finding solace and inspiration in the verses presented.
